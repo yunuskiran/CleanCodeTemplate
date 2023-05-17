@@ -32,6 +32,8 @@ Please note that by contributing to this project, you are expected to adhere to 
 
 ## License
 
+By contributing your code, you agree to license your contribution under the terms of the [MIT License](https://github.com/yunuskiran/CleanCodeTemplate/blob/main/LICENSE) used in this project.
+
 If you have any questions or need further assistance, feel free to reach out to the project maintainers or refer to the [README](README.md) file.
 
 We appreciate your contribution and look forward to your pull requests!
